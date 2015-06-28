@@ -1,2 +1,0 @@
-# FundQueryHelper
-Fund Query Helper
